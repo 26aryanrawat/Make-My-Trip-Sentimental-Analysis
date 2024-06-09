@@ -1,1 +1,2 @@
 # Make-My-Trip-Sentimental-Analysis
+Make-My-Trip (MMT) is one of the leading travel companies offering services such as flight bookings, hotel reservations, holiday packages, and more. With a large customer base, MMT receives numerous reviews and feedback on its services across various platforms. Understanding the sentiments of these reviews is crucial for improving customer satisfaction, enhancing service quality, and making informed business decisions.
